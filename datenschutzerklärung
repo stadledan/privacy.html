@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="de">
+<meta charset="utf-8">
+<title>Datenschutzerklärung – iTip Hochflur-Finder</title>
+<body>
+<h1>Datenschutzerklärung</h1>
+<p>Diese Chrome-Erweiterung erhebt, verarbeitet oder überträgt keine personenbezogenen Daten.</p>
+<p>Die Erweiterung arbeitet vollständig lokal im Browser. Es findet keine Kommunikation mit externen Servern statt.</p>
+<p>Optionale Einstellungen werden ausschließlich lokal mittels der Chrome-Storage-API gespeichert.</p>
+<p>Stand: Januar 2026</p>
+</body>
+</html>
